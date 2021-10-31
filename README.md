@@ -1,5 +1,5 @@
-Free discord bot site template. Not the best, but using variables so it's easy to change things on it.
+Free discord bot site. Not the best, but using variables so it's easy to change things on it. Use if you want.
 
 Took 48 minutes
 
-https://itshoozi.com/bootstrap-bot-template-ui/
+Copyright Spela 2020-2021
